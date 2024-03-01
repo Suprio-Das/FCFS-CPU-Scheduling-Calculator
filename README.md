@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator Readme
+# CPU Scheduling Simulator
 
 ## Introduction
 This is a simple CPU scheduling simulator implemented in JavaScript. The simulator employs the First-Come-First-Serve (FCFS) scheduling algorithm to demonstrate the waiting time and turnaround time calculations for a given set of processes.

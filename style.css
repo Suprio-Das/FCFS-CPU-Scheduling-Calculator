@@ -2,3 +2,10 @@
     text-align: center;
     display: none;
 }
+
+.cursor-pointer {
+    cursor: pointer;
+}
+.modal-body > p{
+    text-align: justify;
+}

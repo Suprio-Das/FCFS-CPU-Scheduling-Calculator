@@ -26,7 +26,7 @@ To use the simulator, follow these steps:
 ## Example
 For example, if the user inputs:
 - Number of processes: 3
-- Arrival times: 0 2 4
+- Arrival times: 0 0 0
 - Burst times: 5 8 3
 
 The resulting scheduling table will display the waiting time and turnaround time for each process.
